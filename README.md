@@ -1,1 +1,1 @@
-https://github.com/TanKisTHaChiLe/ono-tebe-nado
+https://github.com/TanKisTHaChiLe/ono-tebe-nad
