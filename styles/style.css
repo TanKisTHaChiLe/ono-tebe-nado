@@ -207,6 +207,7 @@ address {
     color: #fff;
     z-index: 1;
 }
+
 .card {
     width: auto;
     height: 100%;
@@ -220,6 +221,7 @@ address {
     position: relative;
     
 }
+
 .card_type_film {
     background-image: url(../images/card-lot-01.jpg);
 }
@@ -260,6 +262,7 @@ address {
     justify-content: center;
     justify-self: center;
 }
+
 .about__logo-image {
     width: 148px;
 }
